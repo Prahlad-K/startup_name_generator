@@ -1,6 +1,6 @@
-# startupnamer
+# startup_name_generator
 
-A new Flutter application.
+A simple Flutter application, as described by the official Flutter documentation. Generates infinite suggestions of startup names, some of which can be favourited by the user.  
 
 ## Getting Started
 
